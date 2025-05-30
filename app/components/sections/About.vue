@@ -8,11 +8,6 @@
         <p class="text-gray-600">
             This is a placeholder for the about section.
         </p>
-        <UButton
-            label="Learn More"
-            icon="i-lucide-info"
-            to="/about-details"
-            target="_blank"
-        />
+       
     </UCard>
 </template>

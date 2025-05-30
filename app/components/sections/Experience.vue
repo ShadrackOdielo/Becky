@@ -6,11 +6,6 @@
     <p class="text-gray-600">
         This is a placeholder for the experience section.
     </p>
-    <UButton
-        label="Learn More"
-        icon="i-lucide-briefcase"
-        to="/experience-details"
-        target="_blank"
-    />
+    
 </UCard>
 </template>

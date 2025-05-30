@@ -6,11 +6,6 @@
         <p class="text-gray-600">
         This is a placeholder for the education section.
         </p>
-        <UButton
-        label="Learn More"
-        icon="i-lucide-book-open"
-        to="/education-details"
-        target="_blank"
-        />
+       
     </UCard>
 </template>

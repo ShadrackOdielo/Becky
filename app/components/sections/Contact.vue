@@ -6,11 +6,6 @@
     <p class="text-gray-600">
         This is a placeholder for the contact section.
     </p>
-    <UButton
-        label="Get in Touch"
-        icon="i-lucide-mail"
-        to="/contact-form"
-        target="_blank"
-    />
+    
 </UCard>
 </template>
