@@ -58,7 +58,6 @@ variant="ghost" size="lg" class="font-bold text-xl bg-gradient-to-r from-seconda
 				<!-- Theme Toggle & Mobile Menu Button -->
 				<div class="flex items-center space-x-2">
 					<!-- Theme Toggle -->
-					<ColorModeButton />
 					<ColorToggle />
 					<!-- Mobile Menu Button -->
 					<UButton

@@ -1,9 +1,8 @@
 <template>
-    <UCard class="min-h-screen w-screen relative " :ui="{body: 'w-full h-full'}">
-        <template #header>
+    <UCard class="min-h-screen w-screen relative ring-0 rounded-none top-0 " :ui="{body: 'w-full ring-0 top-0 h-full'}">
             <NavbarMenu />
-        </template>
-        <SideNav/>
+        
+        <SideNav class="md:visible invisible"/>
         <slot />
         <template #footer>
             <AppFooter />
